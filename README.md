@@ -1,6 +1,6 @@
 # ColoScopus 1.3.1
 
-ColoScopus is a free graphical bibliography tool. Literature review done in the form of 2D graphs, in a similar fashion to research rabbit (https://www.researchrabbit.ai/) or connected papers (https://www.connectedpapers.com/). ColoScopus is desktop based, and searches can be saved locally. Data is retrieved from Scopus, without any filtering, offering you a complete overview over your field of interest.
+ColoScopus is a free graphical bibliography tool. Literature review is done in the form of 2D graphs, in a similar fashion to research rabbit (https://www.researchrabbit.ai/) or connected papers (https://www.connectedpapers.com/). ColoScopus is desktop based, and searches can be saved locally. Data is retrieved from Scopus, without any filtering, offering you a complete overview over your field of interest.
 
 ## Getting started
 
